@@ -18,7 +18,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Vinimarta&repo=to-do-app)](https://github.com/anuraghazra/github-readme-stats"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Vinimarta&repo=to-do-app"
     />
   </a>
 </p>
