@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Vinimart#choose-pinned-repositories">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinimart&layout=compact"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Vinimart/to-do-app">
     <img
       align="center"
       height="165"
