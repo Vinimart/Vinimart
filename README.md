@@ -36,7 +36,7 @@
 
 <p align="left">
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    href=""
     target="_blank"
   >
     <img
@@ -46,21 +46,68 @@
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
+
+  <a href="" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg"
       alt="react"
       width="40"
       height="40"
     />
+  </a>
+
+  <a href="" target="_blank">
+  <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+  </a>
+
+  <a href="" target="_blank">
+  <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+  </a>
+
+  <a href="" target="_blank">
+  <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+  </a>
+
+  <a href="" target="_blank">
+  <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+  </a>
+  
+  <a href="" target="_blank">
+  <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/jasmine/jasmine-plain-wordmark.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+  </a>
+    
+  <a href="" target="_blank">
+  <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/jasmine/jasmine-plain-wordmark.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
   </a>
 </p>
 
