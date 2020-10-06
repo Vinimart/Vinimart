@@ -14,13 +14,13 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinimart&layout=compact"
     />
   </a>
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Vinimart&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Vinimarta&repo=to-do-app)](https://github.com/anuraghazra/github-readme-stats"
     />
-  </a> -->
+  </a>
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
