@@ -103,7 +103,34 @@
     
   <a href="" target="_blank">
   <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/jasmine/jasmine-plain-wordmark.svg"
+    src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+  </a>
+    
+  <a href="" target="_blank">
+  <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+  </a>
+    
+  <a href="" target="_blank">
+  <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
+  </a>
+    
+  <a href="" target="_blank">
+  <img
+    src="https://devicons.github.io/devicon/devicon.git/icons/illustrator/illustrator-plain.svg"
     alt="nodejs"
     width="40"
     height="40"
