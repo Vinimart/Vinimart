@@ -35,107 +35,15 @@
 <br/>
 
 <p align="left">
-  <a
-    href=""
-    target="_blank"
-  >
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="" target="_blank">
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  </a>
-
-  <a href="" target="_blank">
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  </a>
-
-  <a href="" target="_blank">
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  </a>
-
-  <a href="" target="_blank">
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  </a>
-  
-  <a href="" target="_blank">
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/jasmine/jasmine-plain-wordmark.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  </a>
-    
-  <a href="" target="_blank">
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  </a>
-    
-  <a href="" target="_blank">
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  </a>
-    
-  <a href="" target="_blank">
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  </a>
-    
-  <a href="" target="_blank">
-  <img
-    src="https://devicons.github.io/devicon/devicon.git/icons/illustrator/illustrator-plain.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  </a>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="Gulp" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/jasmine/jasmine-plain-wordmark.svg" alt="Jasmine" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg" alt="Babel" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40" />
 </p>
 
 ### Find me around the web 🌎:
