@@ -18,7 +18,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Vinimart&repo=vinimart.github.io"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Vinimart&repo=to-do-app"
     />
   </a>
 </p>
