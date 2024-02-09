@@ -8,7 +8,7 @@ Hey there! I'm Vinicius, a passionate software developer diving deep into Web3, 
 
 💻 Frontend & Blockchain Developer with 6 years of hands-on experience.
 
-🎓 Graduated in Computer Network and even Literature (yes, you read that right).
+🎓 Graduated in Computer Networking and even Literature (yes, you read that right).
 
 🌱 Always on the lookout for new technologies to experiment with.
 
