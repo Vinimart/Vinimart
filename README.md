@@ -1,12 +1,12 @@
-# Welcome to my GitHub Profile! 👋
+# Welcome! 👋
 
-Hey there! I'm Vinicius, passionate software developer diving deep into Web3, blockchain, and gaming.
+Hey there! I'm Vinicius, a passionate developer diving deep into Web3, Blockchain, Cloud and Game development!
 
 ## About Me ℹ️
 
-🚀 Currently exploring the exciting world of Web3 and GameFi.
-
 💻 Full stack & Blockchain Developer with 7 years of hands-on experience.
+
+☁️ Into building and managing scalable cloud environments.
 
 🎓 Graduated in Computer Networking and also Literature (yes, 🤷🏻‍♂️).
 
@@ -14,9 +14,13 @@ Hey there! I'm Vinicius, passionate software developer diving deep into Web3, bl
 
 📚 Love sharing insights and contributing to the tech community.
 
-## Connect with Me 🌐
+## Let's connect! 🤝
 
-💼 On [LinkedIn](https://www.linkedin.com/in/vinimartdev/).
+💼 On LinkedIn https://linkedin.com/in/vinimartdev/
+
+Feel free to reach out if you have any questions, ideas for collaboration, or just want to chat. 
+
+Looking forward to connect with you! 🤠
 
 ## Projects and Contributions 🛠️
 
@@ -30,8 +34,3 @@ Hey there! I'm Vinicius, passionate software developer diving deep into Web3, bl
 
 ![Panorama Logo V1](https://github.com/Vinimart/Vinimart/assets/47956560/539ddc14-55f1-4f61-bd50-37f458fd3344)
 
-## Let's Connect! 🤝
-
-Feel free to reach out if you have any questions, ideas for collaboration, or just want to chat about tech and innovation. I'm always open to exciting opportunities and new connections!
-
-Looking forward to connecting with you! 😊
