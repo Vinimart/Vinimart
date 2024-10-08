@@ -32,5 +32,4 @@ Looking forward to connect with you! 🤠
 
 🔗 Play via API and develop your own code! Automate the gameplay and scale your AI Codyfighter army to earn rewards. Documentation available [here](https://codyfight.com/api-doc)
 
-![Panorama Logo V1](https://github.com/Vinimart/Vinimart/assets/47956560/539ddc14-55f1-4f61-bd50-37f458fd3344)
-
+![1400x300-a-Genesis-collection-banner-a](https://github.com/user-attachments/assets/044490dc-8d3a-48e4-8619-6865ef773bb6)
