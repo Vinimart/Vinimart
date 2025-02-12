@@ -24,11 +24,15 @@ Looking forward to connect with you! 🤠
 
 👾 Explore Codyfight, a thrilling play-to-earn Web3 game: [Codyfight](https://codyfight.com)
 
+🌟 Codyfight Genesis NFT collection: [OpenSea](https://opensea.io/collection/codyfighter-genesis)
+
 🪙 $CTOK Token is the heart of Codyfight's economy: [CoinMarketCap](https://coinmarketcap.com/currencies/codyfight)
 
-🪙 $CGAZ Codyfight's utility token: [CoinMarketCap](https://coinmarketcap.com/currencies/codyfight)
+🪙 $CGAZ Codyfight's utility token: [Skale](https://green-giddy-denebola.explorer.mainnet.skalenodes.com/token/0x9604077aeab99cAd148Aa82f4A1CE10d9cf2AeF1)
 
-🌟 Codyfight Genesis NFT collection: [OpenSea](https://opensea.io/collection/codyfighter-genesis)
+
+
+---
 
 🔗 Play via API and develop your own code! Automate the gameplay and scale your AI Codyfighter army to earn rewards. Documentation available [here](https://codyfight.com/coding)
 
